@@ -10,7 +10,7 @@ class Caballo:
 
 def main():
 
-    pony = Caballo("Manchas")
+    pony = Caballo("Ico Ico")
     print(pony.get_nombre())
 
 
